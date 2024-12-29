@@ -1,3 +1,3 @@
-# Fixed Item Rotation
+# TurretKiller
 
-Fixes the angle to make it easier to organize items on the ship.
+Use shovel or knife to kill the turrets

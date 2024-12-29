@@ -14,6 +14,7 @@
           "BepInEx.PluginInfoProps": "1.1.0",
           "UnityEngine.Modules": "2022.3.9",
           "Assembly-CSharp": "0.0.0.0",
+          "Unity.Collections": "0.0.0.0",
           "Unity.Netcode.Runtime": "0.0.0.0"
         },
         "runtime": {
@@ -362,6 +363,14 @@
           }
         }
       },
+      "Unity.Collections/0.0.0.0": {
+        "runtime": {
+          "Unity.Collections.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
       "Unity.Netcode.Runtime/0.0.0.0": {
         "runtime": {
           "Unity.Netcode.Runtime.dll": {
@@ -466,14 +475,6 @@
           }
         }
       },
-      "Unity.Collections/0.0.0.0": {
-        "runtime": {
-          "Unity.Collections.dll": {
-            "assemblyVersion": "0.0.0.0",
-            "fileVersion": "0.0.0.0"
-          }
-        }
-      },
       "ClientNetworkTransform/0.0.0.0": {
         "runtime": {
           "ClientNetworkTransform.dll": {
@@ -538,6 +539,14 @@
           }
         }
       },
+      "Unity.Collections.LowLevel.ILSupport/0.0.0.0": {
+        "runtime": {
+          "Unity.Collections.LowLevel.ILSupport.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
       "Unity.VisualEffectGraph.Runtime/0.0.0.0": {
         "runtime": {
           "Unity.VisualEffectGraph.Runtime.dll": {
@@ -557,14 +566,6 @@
       "Unity.RenderPipelines.HighDefinition.Config.Runtime/0.0.0.0": {
         "runtime": {
           "Unity.RenderPipelines.HighDefinition.Config.Runtime.dll": {
-            "assemblyVersion": "0.0.0.0",
-            "fileVersion": "0.0.0.0"
-          }
-        }
-      },
-      "Unity.Collections.LowLevel.ILSupport/0.0.0.0": {
-        "runtime": {
-          "Unity.Collections.LowLevel.ILSupport.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "0.0.0.0"
           }
@@ -921,6 +922,11 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Unity.Collections/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Unity.Netcode.Runtime/0.0.0.0": {
       "type": "reference",
       "serviceable": false,
@@ -986,11 +992,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Unity.Collections/0.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
     "ClientNetworkTransform/0.0.0.0": {
       "type": "reference",
       "serviceable": false,
@@ -1031,6 +1032,11 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Unity.Collections.LowLevel.ILSupport/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Unity.VisualEffectGraph.Runtime/0.0.0.0": {
       "type": "reference",
       "serviceable": false,
@@ -1042,11 +1048,6 @@
       "sha512": ""
     },
     "Unity.RenderPipelines.HighDefinition.Config.Runtime/0.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Unity.Collections.LowLevel.ILSupport/0.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

@@ -2689,14 +2689,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Win10\\Source\\Repos\\FixedItemAngle\\LethalCompanyTemplate\\LethalCompanyTemplate.csproj",
+      "projectUniqueName": "C:\\Users\\Win10\\TurretKiller\\TurretKiller\\TurretKiller.csproj",
       "projectName": "LethalCompanyTemplate",
-      "projectPath": "C:\\Users\\Win10\\Source\\Repos\\FixedItemAngle\\LethalCompanyTemplate\\LethalCompanyTemplate.csproj",
+      "projectPath": "C:\\Users\\Win10\\TurretKiller\\TurretKiller\\TurretKiller.csproj",
       "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Win10\\Source\\Repos\\FixedItemAngle\\LethalCompanyTemplate\\obj\\",
+      "outputPath": "C:\\Users\\Win10\\TurretKiller\\TurretKiller\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Win10\\Source\\Repos\\FixedItemAngle\\NuGet.Config",
+        "C:\\Users\\Win10\\TurretKiller\\NuGet.Config",
         "C:\\Users\\Win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2723,7 +2723,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "netstandard2.1": {
@@ -2759,12 +2760,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "NETStandard.Library.Ref",
+            "version": "[2.1.0, 2.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "NETStandard.Library": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

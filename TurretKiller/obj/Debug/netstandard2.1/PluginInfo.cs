@@ -1,4 +1,4 @@
-namespace LethalCompanyTemplate
+namespace TurretKiller
 {
     public static class PluginInfo
     {
