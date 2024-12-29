@@ -2,6 +2,6 @@
     "name": "TurretKiller",
     "version_number": "1.0.0",
     "website_url": "https://github.com/P-Asta/FixedItemRotation",
-    "description": "Use your shovel or knife to kill the turrets!",
+    "description": "Use shovel or knife to kill the turrets!",
     "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
 }
